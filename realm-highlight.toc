@@ -1,0 +1,5 @@
+## Interface: 80205
+## Title : Realm Highlight
+## Notes: Highlights all players from specific realm
+## Author: Matus Tuhy
+realm-highlight.lua
